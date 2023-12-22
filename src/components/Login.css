@@ -1,0 +1,12 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    width: 12rem;
+    margin-left: 35rem;
+    margin-top: 5rem;
+    gap: 2rem;
+}
+
+.login p{
+    font-size: 2rem;
+}

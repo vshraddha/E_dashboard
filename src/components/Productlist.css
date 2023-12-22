@@ -1,0 +1,20 @@
+
+
+.prolist ul li{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    width:150px;
+}
+
+.prolist ul{
+    margin: 0;
+}
+
+.search{
+    width: 200px;
+    margin:20px;
+    height:30px;
+    border: 1px solid black;
+    padding-left: 10px;
+}

@@ -1,0 +1,15 @@
+.ul li{
+display: inline-block;
+padding: 6px 26px;
+font-size: 1rem;
+
+}
+.ul{
+    background-color: rgba(0, 0, 0, 0.781);
+    
+}
+
+.ul li a{
+    color: white;
+    text-decoration: none;
+}

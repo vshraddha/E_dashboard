@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    flex-direction: column;
+    width: 12rem;
+   margin: auto;
+   margin-top: 3rem;
+   gap: 2rem;
+   
+}
+
+.invalid{
+    color: red;
+    margin-top: -21px;
+   margin-left: -2rem;
+    width: 12rem;
+}
+
+.success {
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    padding: 10px; /* Padding around the text */
+    margin-top: 10px; /* Add some spacing from the input fields */
+    border-radius: 5px; /* Rounded corners */
+    text-align: center; /* Center-align the text */
+  }
